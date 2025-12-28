@@ -43,6 +43,17 @@ Acesse o aplicativo **ContinuityShield** na PartyRock AWS:
 
 <br/>
 
+<p align="center">
+  <img src="img/1_TelaInicial.png" alt="ContinuityShield – PartyRock AWS" width="380">
+  <img src="img/2_TelaInicial.png" alt="ContinuityShield – PartyRock AWS" width="380">
+  <img src="img/3_Exemplo.png" alt="ContinuityShield – PartyRock AWS" width="380">
+  <img src="img/4_Exemplo.png" alt="ContinuityShield – PartyRock AWS" width="380">
+  <img src="img/5_Exemplo.png" alt="ContinuityShield – PartyRock AWS" width="380">
+  <img src="img/6_Exemplo.png" alt="ContinuityShield – PartyRock AWS" width="380">
+</p>
+
+<br/>
+
 ## 💭 Reflexão
 O desenvolvimento do aplicativo por meio de Inteligência Artificial Generativa evidencia o potencial da IA tanto no desenvolvimento ágil de aplicações quanto no apoio à Gestão da Continuidade de Negócios (BCM). A capacidade de traduzir boas práticas normativas em soluções funcionais reduz as barreiras técnicas, o tempo e o custo de desenvolvimento. 
 
