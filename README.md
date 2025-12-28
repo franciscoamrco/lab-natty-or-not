@@ -39,7 +39,7 @@ Com base nas informações fornecidas pelo usuário, o aplicativo realiza de for
 O resultado é um relatório estruturado, com linguagem clara e alinhado às boas práticas de Continuidade de Negócios, apoiando a tomada de decisão gerencial.
 
 Acesse o aplicativo **ContinuityShield** na PartyRock AWS:  
-[ContinuityShield – Análise de Sustentabilidade de Ativos](https://partyrock.aws/u/franciscomrco/FHjMdi4lT/ContinuityShield%25253A-Analise-de-Sustentabilidade-de-Ativos/snapshot/wVZCoX7HT)
+[ContinuityShield – Análise de Sustentabilidade de Ativos](https://partyrock.aws/u/franciscomrco/FHjMdi4lT/ContinuityShield%253A-Analise-de-Sustentabilidade-de-Ativos)
 
 <br/>
 
