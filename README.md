@@ -1,51 +1,51 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Aplicativo: ContinuityShield: Análise de Sustentabilidade de Ativos na PartyRock AWS
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<br/>
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O ContinuityShield é um aplicativo desenvolvido na plataforma PartyRock da AWS com o objetivo de apoiar a Análise de Sustentabilidade de Ativos (ASA) no contexto da Gestão da Continuidade de Negócios (BCM). 
+
+A solução avalia se um ativo crítico é capaz de se manter operacional durante eventos disruptivos, utilizando como insumos as informações provenientes da Análise de Impacto ao Negócio (Business Impact Analysis – BIA) e os dados coletados na própria ASA.  
+
+Como resultado, o aplicativo gera um relatório estruturado, que permite identificar fragilidades, dependências críticas e riscos à continuidade, apoiando a tomada de decisão e o desenvolvimento de estratégias de resiliência organizacional.
+
+<br/>
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* Inteligência Artificial Generativa – PartyRock (AWS): 
+
+    Utilizada para a criação do aplicativo, interpretação das informações fornecidas pelo usuário e geração automatizada de análises e relatórios estruturados, com linguagem clara e alinhada às boas práticas internacionais. 
+
+<br/>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O aplicativo foi desenvolvido na plataforma PartyRock AWS a partir da definição de um prompt estruturado, no qual o modelo de IA assume o papel de especialista em Gestão de Continuidade de Negócios (BCM), com base nas normas ISO 22301, ISO 27001 e ISO 31000.
+
+A solução foi projetada para apoiar analistas na Análise de Sustentabilidade de Ativos (ASA), avaliando se um ativo crítico pode manter-se operacional em eventos disruptivos. 
+
+Com base nas informações fornecidas pelo usuário, o aplicativo realiza de forma automatizada: 
+
+- Contextualização do ativo no processo de negócio.
+
+- Avaliação da sustentabilidade do ativo, considerando RTO, RPO, TRA e TAC.
+
+- Identificação de fragilidades e de dependências críticas.
+
+- Geração de recomendações práticas e de um resumo executivo.
+
+<br/>
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um relatório estruturado, com linguagem clara e alinhado às boas práticas de Continuidade de Negócios, apoiando a tomada de decisão gerencial.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Acesse o aplicativo **ContinuityShield** na PartyRock AWS:  
+[ContinuityShield – Análise de Sustentabilidade de Ativos](https://partyrock.aws/u/franciscomrco/FHjMdi4lT/ContinuityShield%25253A-Analise-de-Sustentabilidade-de-Ativos/snapshot/wVZCoX7HT)
 
-### Exemplos e Insigths
+<br/>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+O desenvolvimento do aplicativo por meio de Inteligência Artificial Generativa evidencia o potencial da IA tanto no desenvolvimento ágil de aplicações quanto no apoio à Gestão da Continuidade de Negócios (BCM). A capacidade de traduzir boas práticas normativas em soluções funcionais reduz as barreiras técnicas, o tempo e o custo de desenvolvimento. 
 
-## Links Interessantes
+No contexto de BCM, a IA contribui para padronizar análises, consolidar informações e apoiar a tomada de decisão, especialmente em atividades como BIA e ASA. Contudo, seu uso deve ser complementar à análise humana, com validação especializada e governança adequada. 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+No futuro, acredito que a tendência é a evolução para modelos mais preditivos e integrados, fortalecendo a resiliência organizacional por meio da combinação entre automação, dados e julgamento humano. 
